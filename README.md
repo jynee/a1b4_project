@@ -1,5 +1,3 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4q6r-qWMtFg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 
@@ -31,5 +29,5 @@
 
 **WoW ! We Organized Work.**  
 
-- [GitHub] https://github.com/oleeyoung520/a1b4_project 
-- (Web Main image)Remote image by visuals on Unsplash 
+* 2020.09.23~2020.11.11
+* NLP Project 

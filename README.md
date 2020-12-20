@@ -1,10 +1,8 @@
-
-
 # WoW, 바쁜 당신을 위한 회의록 솔루션
 
 <br>
 
-![image-20201220191850276](C:\Users\j\Desktop\git\git_a1b4\a1b4_project\images\image-20201220191850276.png)
+![image-20201220193615479](markdown-images/image-20201220193615479.png)
 
 ✅ Demo Video: https://youtu.be/5GcG-84QxQU)
 
